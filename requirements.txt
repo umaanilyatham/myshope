@@ -1,0 +1,6 @@
+
+
+
+Django
+gunicorn
+mysql-connector-python
